@@ -56,3 +56,34 @@ nav .nav-right-section img
     border-radius: 50%;
     margin-left: 10pX;
 }
+
+main 
+{
+    margin-top: 150px;
+    text-align: center;
+}
+
+main .main-logo
+{
+    width: 530px;
+    margin: 0 auto; /*El auto centra horizontalmente el margen*/
+    margin-bottom: 35px;
+}
+
+main .main-logo img
+{
+    width: 300px;
+}
+
+main .main-input
+{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+main .main-input-container
+{
+    width: 525px;
+    border-radius: 100px;
+}
